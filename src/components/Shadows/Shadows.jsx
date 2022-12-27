@@ -6,60 +6,24 @@ const Shadows = () => {
   const classes = useStyles();
   return (
     <Grid container display="flex" justifyContent="center">
-      <Box m={0.4} p={1} className={classes.smallbox}>
-        "Sombrereria Leo"
-      </Box>
-      <Box m={0.4} p={1} className={classes.smallbox}>
-        "Sombrereria Leo"
-      </Box>
-      <Box m={0.4} p={1} className={classes.smallbox}>
-        "Sombrereria Leo"
-      </Box>
-      <Box m={0.4} p={1} className={classes.smallbox}>
-        "Sombrereria Leo"
-      </Box>
-      <Box m={0.4} p={1} className={classes.smallbox}>
-        "Sombrereria Leo"
-      </Box>
-      <Box m={0.4} p={1} className={classes.smallbox}>
-        "Sombrereria Leo"
-      </Box>
-      <Box m={0.4} p={1} className={classes.smallbox}>
-        "Sombrereria Leo"
-      </Box>
-      <Box m={0.4} p={1} className={classes.smallbox}>
-        "Sombrereria Leo"
-      </Box>
-      <Box m={0.4} p={1} className={classes.smallbox}>
-        "Sombrereria Leo"
-      </Box>
-      <Box m={0.4} p={1} className={classes.smallbox}>
-        "Sombrereria Leo"
-      </Box>
-      <Box m={0.4} p={1} className={classes.smallbox}>
-        Sombrereria Leo
-      </Box>
-      <Box m={0.4} p={1} className={classes.smallbox}>
-        "Sombrereria Leo"
-      </Box>
-      <Box m={0.4} p={1} className={classes.smallbox}>
-        "Sombrereria Leo"
-      </Box>
-      <Box m={0.4} p={1} className={classes.smallbox}>
-        "Sombrereria Leo"
-      </Box>
-      <Box m={0.4} p={1} className={classes.smallbox}>
-        "Sombrereria Leo"
-      </Box>
-      <Box m={0.4} p={1} className={classes.smallbox}>
-        "Sombrereria Leo"
-      </Box>
-      <Box m={0.4} p={1} className={classes.smallbox}>
-        "Sombrereria Leo"
-      </Box>
-      <Box m={0.4} p={1} className={classes.smallbox}>
-        "Sombrereria Leo"
-      </Box>
+      <Box className={classes.smallbox}>"Sombrereria Leo"</Box>
+      <Box className={classes.smallbox}>"Sombrereria Leo"</Box>
+      <Box className={classes.smallbox}>"Sombrereria Leo"</Box>
+      <Box className={classes.smallbox}>"Sombrereria Leo"</Box>
+      <Box className={classes.smallbox}>"Sombrereria Leo"</Box>
+      <Box className={classes.smallbox}>"Sombrereria Leo"</Box>
+      <Box className={classes.smallbox}>"Sombrereria Leo"</Box>
+      <Box className={classes.smallbox}>"Sombrereria Leo"</Box>
+      <Box className={classes.smallbox}>"Sombrereria Leo"</Box>
+      <Box className={classes.smallbox}>"Sombrereria Leo"</Box>
+      <Box className={classes.smallbox}>"Sombrereria Leo"</Box>
+      <Box className={classes.smallbox}>"Sombrereria Leo"</Box>
+      <Box className={classes.smallbox}>"Sombrereria Leo"</Box>
+      <Box className={classes.smallbox}>"Sombrereria Leo"</Box>
+      <Box className={classes.smallbox}>"Sombrereria Leo"</Box>
+      <Box className={classes.smallbox}>"Sombrereria Leo"</Box>
+      <Box className={classes.smallbox}>"Sombrereria Leo"</Box>
+      <Box className={classes.smallbox}>"Sombrereria Leo"</Box>
     </Grid>
   );
 };

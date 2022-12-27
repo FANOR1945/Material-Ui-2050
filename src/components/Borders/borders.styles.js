@@ -2,8 +2,8 @@ import { makeStyles } from "@material-ui/core/styles";
 
 export const defaultProps = {
   bgcolor: "background.paper",
-  m: 0.5,
-  style: { width: "100%", height: "100vh" },
+  mt: 0.8,
+  style: { width: "100%", height: "100%" },
   borderColor: "text.primary",
 };
 export const useStyles = makeStyles({
